@@ -1,7 +1,7 @@
 # 😎 4Azgin
 <img src="https://www.premiere.fr/sites/default/files/styles/scale_crop_1280x720/public/2019-08/Collage%20sans%20titre%20%281%29.jpg">
 
-<img src="https://www.codewars.com/users/DoctorWhoFR/badges/large">
+<a href="https://www.codewars.com/users/DoctorWhoFR/"><img src="https://www.codewars.com/users/DoctorWhoFR/badges/large"></a>
 
 Welcome to my GitHub profile, my name is Maxime but you can call me Dr.azgin. 
 I'm a programmer who likes to make computer programs, algorithms and also websites and logical backends, including API programming.
