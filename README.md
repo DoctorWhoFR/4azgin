@@ -31,4 +31,9 @@ I am open to suggestions for new projects to start.
   - I love talking about tech and space !
   - I'm a good speaker 
 
+## Contact: 
+
+**Discord:** Docteur#5670
+**Email Perso:** max.benamara@gmail.com
+**Email Pro:** maxime_benamara@spincorps.com
 
