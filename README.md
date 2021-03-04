@@ -19,11 +19,13 @@ I am open to suggestions for new projects to start.
 
 "We all change, when you think about it. We’re all different people all through our lives. And that’s OK, that’s good, you gotta keep moving, so long as you remember all the people that you used to be." (11th Doctor)
 
-  - C#, Python, Java
-  - NodeJS - Django
-  - React/ReactJs, Angular, VueJS
-  - HTML, CSS, JS, JQUERY
-  - SQL, POSTEGRE, MYSQL 
+  - NodeJS [🟢🟢🟢🟢🟢] | Certification WebMaster NodeJS - (Université du Michigan)
+  - Python [🟢🟢🟢🟢🟢] | Certification PythonMaster - (Université du Michigan)
+  - Java, C#  [🟢🟢🟢🟢] 
+  - Django [🟢🟢🟢]
+  - React/ReactJs, Angular, VueJS [🟢🟢🟢🟢] 
+  - HTML, CSS, JS, JQUERY [🟢🟢🟢🟢] 
+  - SQL, POSTEGRE, MYSQL [🟢🟢🟢🟢🟢] 
 
 # 🥰 Good to now:
 
