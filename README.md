@@ -4,12 +4,12 @@
 <a href="https://www.codewars.com/users/DoctorWhoFR/"><img src="https://www.codewars.com/users/DoctorWhoFR/badges/large"></a>
 
 Welcome to my GitHub profile, my name is Maxime but you can call me Dr.azgin. 
-I'm a programmer who likes to make computer programs, algorithms and also websites and logical backends, including API programming.
+I'm a programmer who likes to make computer programs, algorithms and also websites and backends, including API programming.
 
 I also have many projects in cloud structures, powered by linode and aws.
 I am also a first user of Amazon WebService and also GoogleCloud and FireBase.
 
-I'm a big fan of a mobile web application called NodeJS Native Application coded in JS NodeJS. 
+I'm a big fan of a Native Application coded in JS NodeJS. 
 I love the fact that NodeJS is an international language and you can see it with my web and mobile applications.
 
 I'm an independent R&D user, which is great, I love my computer skills and I've also taken steps to improve myself.          
