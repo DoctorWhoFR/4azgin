@@ -17,6 +17,12 @@ I am very open about my work, I often post updates in the comments and also on L
 
 I am open to suggestions for new projects to start.     
 
+
+# FOR HIRING:
+
+- I'm currently the creator of a small team of great tech dev, we are currently open to any discussion at my custom email: contact@spincorps.com
+
+
 "We all change, when you think about it. We’re all different people all through our lives. And that’s OK, that’s good, you gotta keep moving, so long as you remember all the people that you used to be." (11th Doctor)
 
   - NodeJS [🟢🟢🟢🟢🟢] | Certification WebMaster NodeJS - (Université du Michigan)
