@@ -1,5 +1,5 @@
 # 😎 4Azgin
-<img src="https://media.giphy.com/media/4A1ySuQE9tfFIv2bEY/giphy.gif">
+<img src="https://i.imgur.com/VRXp9Z2.png">
 
 <a href="https://www.codewars.com/users/DoctorWhoFR/"><img src="https://www.codewars.com/users/DoctorWhoFR/badges/large"></a>
 
