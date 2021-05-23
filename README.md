@@ -1,4 +1,4 @@
-# 😎 4Azgin
+# 🚀 4Azgin
 <img src="https://i.imgur.com/tCTddYS.png">
 
 <a href="https://www.codewars.com/users/DoctorWhoFR/"><img src="https://www.codewars.com/users/DoctorWhoFR/badges/large"></a>
