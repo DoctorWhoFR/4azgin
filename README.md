@@ -26,16 +26,28 @@ I am very open about my work, I often post updates in the comments and also on m
 
 "We all change, when you think about it. We’re all different people all through our lives. And that’s OK, that’s good, you gotta keep moving, so long as you remember all the people that you used to be." (11th Doctor)
 
-  - NodeJS [🟢🟢🟢🟢🟢] | Certification WebMaster NodeJS - (Université du Michigan)
-  - Python [🟢🟢🟢🟢🟢] | Certification PythonMaster - (Université du Michigan)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> [🟢🟢🟢🟢🟢] | Certification WebMaster NodeJS - (Université du Michigan)
+
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> [🟢🟢🟢🟢🟢] | Certification PythonMaster - (Université du Michigan)
+
+
   - Java, C#  [🟢🟢🟢🟢] 
+
   - Django [🟢🟢🟢]
+
   - React/ReactJs, Angular, VueJS [🟢🟢🟢🟢] 
+
   - HTML, CSS, JS, JQUERY [🟢🟢🟢🟢] 
+
   - SQL, POSTEGRE, MYSQL [🟢🟢🟢🟢🟢] 
+
   - DevOps [🟢🟢🟢🟢🟢]
+
   - Cloud management 🟢🟢🟢🟢🟢
+
   - Linux and System 🟢🟢🟢🟢🟢
+
 
 # 🥰 Good to now:
 
