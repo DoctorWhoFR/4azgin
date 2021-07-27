@@ -47,4 +47,5 @@ I am very open about my work, I often post updates in the comments and also on m
 <a href="https://discord.gg/FtRRzWJPSM"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 
 **Discord:** Docteur#5670
+
 **Email Perso:** max.benamara@gmail.com
