@@ -8,8 +8,6 @@ J'ai réalisé de nombreux projets et j'ai également travaillé sur de nombreux
 
 Je suis également un grand fan de MineCraft et Garry's Mod, donc si vous avez un projet Minecraft, envoyez-moi un message sur Discord.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
-
 # FOR HIRING & Projects:
 
 ✔ Je suis actuellement le créateur d'une petite équipe de super tech dev, nous sommes actuellement ouverts à toute discussion sur discord : Docteur#0777
