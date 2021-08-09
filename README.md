@@ -2,7 +2,7 @@
 
 <img src="https://media4.giphy.com/media/CP1AxXkLuUdFu/giphy.gif?cid=ecf05e47mlp4bbcnsji3210hhhdp65945y0ffqk8qsbdt9mo&rid=giphy.gif&ct=g">
 <hr/>
-Bonjour, je suis Maxime benamara un autodidacte passionné et un ingénieur en logiciel et un développeur Web, j'ai actuellement ma propre micro-entreprise et je travaille sur la modernisation des entreprises françaises.
+Bonjour, je m'appelle Maxime un autodidacte passionné et un ingénieur en logiciel et un développeur Web, j'ai actuellement ma propre micro-entreprise et je travaille sur la modernisation des entreprises françaises.
 
 J'ai réalisé de nombreux projets et j'ai également travaillé sur de nombreux projets dans le passé, je suis ouvert à tout projet. Je connais actuellement plusieurs langages et frameworks.
 
