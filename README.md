@@ -1,37 +1,33 @@
 # 🚀 4Azgin
 
 <img src="https://media4.giphy.com/media/CP1AxXkLuUdFu/giphy.gif?cid=ecf05e47mlp4bbcnsji3210hhhdp65945y0ffqk8qsbdt9mo&rid=giphy.gif&ct=g">
+<hr/>
+Bonjour, je suis Maxime benamara un autodidacte passionné et un ingénieur en logiciel et un développeur Web, j'ai actuellement ma propre micro-entreprise et je travaille sur la modernisation des entreprises françaises.
 
-Welcome to my GitHub profile, my name is Maxime but you can call me Dr.azgin. 
-I'm a programmer who likes to make computer programs, algorithms and also websites and backends, including API programming.
+J'ai réalisé de nombreux projets et j'ai également travaillé sur de nombreux projets dans le passé, je suis ouvert à tout projet. Je connais actuellement plusieurs langages et frameworks.
 
-I also have many projects in cloud structures, powered by linode and aws.
-I'm a big fan of a Native Application coded in JS NodeJS. 
+Je suis également un grand fan de MineCraft et Garry's Mod, donc si vous avez un projet Minecraft, envoyez-moi un message sur Discord.
 
-I love the fact that NodeJS is an international language and you can see it with my web and mobile applications.
-
-I'm an independent R&D user, which is great, I love my computer skills and I've also taken steps to improve myself.          
-I am very open about my work, I often post updates in the comments and also on my personal blog.         
-
-< I am open to suggestions for new projects to start. >     
-
+Traduit avec www.DeepL.com/Translator (version gratuite)
 
 # FOR HIRING & Projects:
 
-- I'm currently the creator of a small team of great tech dev, we are currently open to any discussion at my custom email: Docteur#5670
-- I'm also the Owner of a MineCraft project named <a href="https://discord.gg/J5bmFmg3vW">**Mine&Slash**</a>
+✔ Je suis actuellement le créateur d'une petite équipe de super tech dev, nous sommes actuellement ouverts à toute discussion sur discord : Docteur#0777
 
+# Stats late 2021 (covid time)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorWhoFR)](https://github.com/anuraghazra/github-readme-stats)
 
 # Me:
 
 "We all change, when you think about it. We’re all different people all through our lives. And that’s OK, that’s good, you gotta keep moving, so long as you remember all the people that you used to be." (11th Doctor)
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> [🟢🟢🟢🟢🟢] | Certification WebMaster NodeJS - (Université du Michigan)
+ [🟢🟢🟢🟢🟢] | Certification WebMaster NodeJS - (Université du Michigan)
 
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> [🟢🟢🟢🟢🟢] | Certification PythonMaster - (Université du Michigan)
+ [🟢🟢🟢🟢🟢] | Certification PythonMaster - (Université du Michigan)
 
 
+### Self :
   - Java, C#  [🟢🟢🟢🟢] 
 
   - Django [🟢🟢🟢]
@@ -58,6 +54,6 @@ I am very open about my work, I often post updates in the comments and also on m
 ## Contact: 
 <a href="https://discord.gg/FtRRzWJPSM"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 
-**Discord:** Docteur#5670
+**Discord:** Docteur#0777
 
 **Email Perso:** max.benamara@gmail.com
