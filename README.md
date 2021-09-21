@@ -1,6 +1,6 @@
 # 🚀 4Azgin
 
-<img src="https://media4.giphy.com/media/CP1AxXkLuUdFu/giphy.gif?cid=ecf05e47mlp4bbcnsji3210hhhdp65945y0ffqk8qsbdt9mo&rid=giphy.gif&ct=g">
+<img src="https://i.imgur.com/81adUS6.png">
 <hr/>
 Bonjour, je m'appelle Maxime un autodidacte passionné et un ingénieur en logiciel et un développeur Web, j'ai actuellement ma propre micro-entreprise et je travaille sur la modernisation des entreprises françaises.
 
@@ -10,7 +10,7 @@ Je suis également un grand fan de MineCraft et Garry's Mod, donc si vous avez u
 
 # FOR HIRING & Projects:
 
-✔ Je suis actuellement le créateur d'une petite équipe de super tech dev, nous sommes actuellement ouverts à toute discussion sur discord : Docteur#0777
+✔ Je suis actuellement à la recherche d'une entreprise dans le domaine de l'informatique spécialement dans le Web.
 
 # Stats late 2021 (covid time)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorWhoFR)](https://github.com/anuraghazra/github-readme-stats)
