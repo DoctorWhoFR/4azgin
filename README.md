@@ -6,7 +6,8 @@ Bonjour, je m'appelle Maxime un autodidacte passionné et un ingénieur en logic
 
 J'ai réalisé de nombreux projets et j'ai également travaillé sur de nombreux projets dans le passé, je suis ouvert à tout projet. Je connais actuellement plusieurs langages et frameworks.
 
-Je suis également un grand fan de MineCraft et Garry's Mod, donc si vous avez un projet Minecraft, envoyez-moi un message sur Discord.
+Je maitrise parfaitement NodeJS, Express, MongoDB. ainsi que Angular, React. 
+
 
 # FOR HIRING & Projects:
 
