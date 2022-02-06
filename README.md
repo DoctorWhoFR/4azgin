@@ -1,30 +1,22 @@
 <img src="https://i.imgur.com/1Y06Dwt.png">
 <hr/>
-Bonjour, je m'appelle Maxime un autodidacte passionné et un ingénieur en logiciel et un développeur Web, j'ai actuellement ma propre micro-entreprise et je travaille sur la modernisation des entreprises françaises.
+<img src="https://i.imgur.com/Jv28FQh.png">
 
-J'ai réalisé de nombreux projets et j'ai également travaillé sur de nombreux projets dans le passé, je suis ouvert à tout projet. Je connais actuellement plusieurs langages et frameworks.
+# Languages:
+<img src="https://i.imgur.com/1qMKJuh.png">
 
-Je maitrise parfaitement NodeJS, Express, MongoDB. ainsi que Angular, React. 
 
-
-# FOR HIRING & Projects:
-
-✔ Je suis actuellement à la recherche d'une entreprise dans le domaine de l'informatique spécialement dans le Web.
-
-# Stats late 2021 (covid time)
+# Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorWhoFR)](https://github.com/anuraghazra/github-readme-stats)
 
 # Me:
 
 "We all change, when you think about it. We’re all different people all through our lives. And that’s OK, that’s good, you gotta keep moving, so long as you remember all the people that you used to be." (11th Doctor)
 
- [🟢🟢🟢🟢🟢] | Certification WebMaster NodeJS - (Université du Michigan)
+  - Certification WebMaster NodeJS  [🟢🟢🟢🟢🟢]  
 
+  - Certification PythonMaste  [🟢🟢🟢🟢🟢] 
 
- [🟢🟢🟢🟢🟢] | Certification PythonMaster - (Université du Michigan)
-
-
-### Self :
   - Java, C#  [🟢🟢🟢🟢] 
 
   - Django [🟢🟢🟢]
