@@ -1,6 +1,4 @@
-# 🚀 Maxime Benamara
-
-<img src="https://i.imgur.com/81adUS6.png">
+<img src="https://i.imgur.com/1Y06Dwt.png">
 <hr/>
 Bonjour, je m'appelle Maxime un autodidacte passionné et un ingénieur en logiciel et un développeur Web, j'ai actuellement ma propre micro-entreprise et je travaille sur la modernisation des entreprises françaises.
 
