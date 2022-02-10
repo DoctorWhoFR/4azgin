@@ -1,7 +1,8 @@
 <img src="https://i.imgur.com/1Y06Dwt.png">
 <hr/>
-MAXIME BENAMARA
-Un autodidacte passionné spécialistes en logiciel et en développement Web. Spécialisés dans la digitalisations aux entreprises et le Web 3.0.
+Un autodidacte passionné en logiciel et en développement Web, spécialisés dans la digitalisations aux entreprises et le Web 3.0.
+
+https://mb-tech.xyz
 
 # Languages:
 <img src="https://i.imgur.com/1qMKJuh.png">
