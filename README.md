@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/1Y06Dwt.png">
 <hr/>
-<img src="https://i.imgur.com/Jv28FQh.png">
+MAXIME BENAMARA
+Un autodidacte passionné spécialistes en logiciel et en développement Web. Spécialisés dans la digitalisations aux entreprises et le Web 3.0.
 
 # Languages:
 <img src="https://i.imgur.com/1qMKJuh.png">
