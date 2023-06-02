@@ -17,9 +17,9 @@ https://mb-tech.xyz
 
   - Certification WebMaster NodeJS  [🟢🟢🟢🟢🟢]  
 
-  - Certification PythonMaste  [🟢🟢🟢🟢🟢] 
+  - Certification PythonMaster  [🟢🟢🟢🟢🟢] 
 
-  - Java, C#  [🟢🟢🟢🟢] 
+  - Java, C#  [🟢🟢🟢] 
 
   - Django [🟢🟢🟢]
 
@@ -34,6 +34,8 @@ https://mb-tech.xyz
   - Cloud management 🟢🟢🟢🟢🟢
 
   - Linux and System 🟢🟢🟢🟢🟢
+  
+  - Golang 🟢🟢🟢
 
 
 # 🥰 Good to now:
